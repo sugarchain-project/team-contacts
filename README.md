@@ -10,11 +10,13 @@ volbil | https://github.com/volbil | https://twitter.com/volbil |
 okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | 
 ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
 salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | 
+nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
+y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
   - Yumekawa: https://github.com/sugarchain-project/sugarchain
-    * cryptozeny: YespowerSugar, SugarShield-N510
+    * cryptozeny: YespowerSugar, SugarShield-N510, Others
     * volbil: Halving, OSX support
     * okoto-xyz: Halving, Bech32
     * ilmango-doge: Bech32
@@ -23,9 +25,9 @@ salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira |
 
 ### 3rd Party Wallet Dev
   - Paperwallet: https://nao20010128nao.github.io/WalletGenerator.net/ | https://github.com/nao20010128nao/WalletGenerator.net/
-    * nao20010128nao | https://github.com/nao20010128nao | 
+    * nao20010128nao: dev, server
   - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar
-    * y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
+    * y-chan: dev, server
 
 
 ### CPUminer Dev
