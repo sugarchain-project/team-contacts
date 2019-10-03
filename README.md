@@ -19,6 +19,6 @@ Who is in the team, and what's his/her function?
   - Tipbot on Discord
     * ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
     * BeeHIVE | https://github.com/Beehivenetwork | twitter | 
-  - Trezor Hardware Wallet Support: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
+  - Trezor H/W Wallet: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
 
