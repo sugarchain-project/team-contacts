@@ -10,6 +10,7 @@ volbil | https://github.com/volbil | https://twitter.com/volbil |
 okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | 
 ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
 salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | 
+AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/AestheticSenpa1 | 
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
@@ -19,6 +20,8 @@ soodal28 | Github | Twitter |
 rplant | Github | Twitter | 
 Loopyks | Github | Twitter | 
 hashpex | Github | Twitter | 
+Dobro Fenix | Github | Twitter | 
+Tesla | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -64,16 +67,42 @@ hashpex | Github | Twitter |
 
 ### Pool Operators
   - 1pool | 2pool: https://1pool.sugarchain.org/ | https://2pool.sugarchain.org/
-    * cryptozeny: Owner, Dev, Server
+    * cryptozeny: Owner
     * okoto-xyz: Bech32
   - 52hash: http://sugar.52hash.com/
-    * wahaobi: Owner, Dev, Server
+    * wahaobi: Owner
   - happysensor.xyz: http://happysensor.xyz/
-    * soodal28: Owner, Dev, Server
+    * soodal28: Owner
   - rplant: https://pool.rplant.xyz/
-    * rplant: Owner, Dev, Server
+    * rplant: Owner
   - skypool: https://sugar.skypool.co/
-    * Loopyks: Owner, Dev, Server
+    * Loopyks: Owner
     * RicK~Z: Dev
   - hashpex: http://hashpex.com/
-    * hashpex: Owner, Dev, Server
+    * hashpex: Owner
+
+
+### Community
+  - Bitcointalk ANN Editor: https://bitcointalk.org/index.php?topic=5177722.0
+    * cryptozeny
+  - Forum Manager: https://forum.sugarchain.org/
+    * volbil
+  - Discord: https://discord.gg/5fvpTdk
+    * salmaan1234
+  - Twitter Manager (looking for applicant): https://twitter.com/sugarchain_dev
+    * cryptozeny
+  - Telegram Manager (looking for applicant): https://t.me/sugarchain
+    * cryptozeny
+  - Website Dev (looking for applicant): https://sugarchain-project.github.io/
+    * volbil
+    * salmaan1234
+  - Community Fund Manager of the Sugarchain Project
+    * AestheticSenpai
+
+
+### Exchange
+  - Exchange Listing & Marketing Manager
+    * AestheticSenpai
+  - ex4ange: https://ex4ange.org/index.php?SUGAR-DOGE
+    * Dobro Fenix: Owner
+    * Tesla: Dev
