@@ -12,7 +12,8 @@ ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_dog
 salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | 
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
-RicK~Z | https://github.com/RickillerZ | Twitter | 
+RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
+BeeHIVE | https://github.com/Beehivenetwork | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -43,8 +44,7 @@ RicK~Z | https://github.com/RickillerZ | Twitter |
 
 ### External Plug-ins Dev
   - Tipbot on Discord
-    * ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
-    * BeeHIVE | https://github.com/Beehivenetwork | Twitter | 
+    * ilmango-doge: Dev
+    * BeeHIVE: Dev, Server
   - Trezor H/W Wallet: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
-    * ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
-
+    * ilmango-doge: Support
