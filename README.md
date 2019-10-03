@@ -14,6 +14,11 @@ nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesm
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
 BeeHIVE | https://github.com/Beehivenetwork | Twitter | 
+wahaobi | Github | Twitter | 
+soodal28 | Github | Twitter | 
+rplant | Github | Twitter | 
+Loopyks | Github | Twitter | 
+hashpex | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -55,3 +60,20 @@ BeeHIVE | https://github.com/Beehivenetwork | Twitter |
     * cryptozeny: Dev, Server
   - trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks
     * ilmango-doge: Dev, Server
+
+
+### Pool Operators
+  - 1pool | 2pool: https://1pool.sugarchain.org/ | https://2pool.sugarchain.org/
+    * cryptozeny: Owner, Dev, Server
+    * okoto-xyz: Bech32
+  - 52hash: http://sugar.52hash.com/
+    * wahaobi: Owner, Dev, Server
+  - happysensor.xyz: http://happysensor.xyz/
+    * soodal28: Owner, Dev, Server
+  - rplant: https://pool.rplant.xyz/
+    * rplant: Owner, Dev, Server
+  - skypool: https://sugar.skypool.co/
+    * Loopyks: Owner, Dev, Server
+    * RicK~Z: Dev
+  - hashpex: http://hashpex.com/
+    * hashpex: Owner, Dev, Server
