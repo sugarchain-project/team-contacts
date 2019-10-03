@@ -22,6 +22,8 @@ Loopyks | Github | Twitter |
 hashpex | Github | Twitter | 
 Dobro Fenix | Github | Twitter | 
 Tesla | Github | Twitter | 
+Wheeler | Github | Twitter | 
+Jonn4y | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -103,6 +105,15 @@ Tesla | Github | Twitter |
 ### Exchange
   - Exchange Listing & Marketing Manager
     * AestheticSenpai
-  - ex4ange: https://ex4ange.org/index.php?SUGAR-DOGE
+  - ex4ange.org:
+    * SUGAR-BTC: https://ex4ange.org/index.php?SUGAR-BTC
+    * SUGAR-DOGE: https://ex4ange.org/index.php?SUGAR-DOGE
     * Dobro Fenix: Owner
     * Tesla: Dev
+  - altmarkets.io:
+    * SUGAR-BTC: https://altmarkets.io/trading/sugarbtc
+      - API: https://altmarkets.io/api/v2/tickers/sugarbtc
+    * SUGAR-DOGE: https://altmarkets.io/trading/sugardoge
+      - API: https://altmarkets.io/api/v2/tickers/sugardoge
+    * Wheeler: Owner
+    * Jonn4y: Dev
