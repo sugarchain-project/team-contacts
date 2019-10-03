@@ -48,3 +48,10 @@ BeeHIVE | https://github.com/Beehivenetwork | Twitter |
     * BeeHIVE: Dev, Server
   - Trezor H/W Wallet: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Support
+
+
+### Explorer Dev
+  - iquidus: https://1explorer.sugarchain.org/
+    * cryptozeny: Dev, Server
+  - trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks
+    * ilmango-doge: Dev, Server
