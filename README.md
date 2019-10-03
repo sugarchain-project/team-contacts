@@ -2,7 +2,7 @@
 Who is in the team, and what's his/her function?
 
 
-# People
+### People
 Name | Github | Twitter |
 --|--|--|
 cryptozeny | https://github.com/cryptozeny | https://twitter.com/cryptozeny | 
