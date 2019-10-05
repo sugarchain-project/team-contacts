@@ -56,8 +56,8 @@ Jonn4y | Github | Twitter |
   - Tipbot on Discord
     * ilmango-doge: Dev
     * MetaNøx: Dev, Server
-  - Trezor H/W Wallet: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
-    * ilmango-doge: Support
+  - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
+    * ilmango-doge: Application
 
 
 ### Explorer Dev
