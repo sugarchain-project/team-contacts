@@ -89,7 +89,7 @@ Jonn4y | Github | Twitter |
     * cryptozeny
   - Forum Manager: https://forum.sugarchain.org/
     * volbil
-  - Discord: https://discord.gg/5fvpTdk
+  - Discord Manager: https://discord.gg/5fvpTdk
     * salmaan1234
   - Twitter Manager (looking for applicant): https://twitter.com/sugarchain_dev
     * cryptozeny
