@@ -55,7 +55,7 @@ Jonn4y | Github | Twitter |
 ### External Plug-ins Dev
   - Tipbot on Discord
     * ilmango-doge: Dev
-    * BeeHIVE: Dev, Server
+    * MetaNøx: Dev, Server
   - Trezor H/W Wallet: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Support
 
