@@ -14,7 +14,7 @@ AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/Aesth
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
-BeeHIVE | https://github.com/Beehivenetwork | https://twitter.com/BeeHiveNetworks | 
+MetaNøx | https://github.com/metastream | https://twitter.com/_metastream | 
 wahaobi | Github | Twitter | 
 soodal28 | Github | Twitter | 
 rplant | Github | Twitter | 
