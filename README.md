@@ -14,7 +14,7 @@ AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/Aesth
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
-MetaNøx | https://github.com/metastream | https://twitter.com/_metastream | 
+MetaNøx | https://github.com/metastream | https://twitter.com/_metastream |
 wahaobi | Github | Twitter | 
 soodal28 | Github | Twitter | 
 rplant | Github | Twitter | 
@@ -24,6 +24,7 @@ Dobro Fenix | Github | Twitter |
 Tesla | Github | Twitter | 
 Wheeler | Github | Twitter | 
 Jonn4y | Github | Twitter | 
+joeland1 | https://github.com/joeland1 | Twitter |
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -56,6 +57,8 @@ Jonn4y | Github | Twitter |
   - Tipbot on Discord
     * ilmango-doge: Dev
     * MetaNøx: Dev, Server
+  - Faucet on Discord
+    * joeland1: Dev, Server
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Application
 
