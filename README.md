@@ -25,6 +25,7 @@ Tesla | Github | Twitter |
 Wheeler | Github | Twitter | 
 Jonn4y | Github | Twitter | 
 joeland1 | https://github.com/joeland1 | Twitter |
+Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -98,6 +99,8 @@ joeland1 | https://github.com/joeland1 | Twitter |
     * cryptozeny
   - Telegram Manager (looking for applicant): https://t.me/sugarchain
     * cryptozeny
+  - Reddit Manager: https://www.reddit.com/r/Sugarchain/
+    * Kezchenko
   - Website Dev (looking for applicant): https://sugarchain-project.github.io/
     * volbil
     * salmaan1234
