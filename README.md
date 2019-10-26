@@ -52,7 +52,8 @@ Jonn4y | Github | Twitter |
     * ilmango-doge: Bech32
   - cpuminer-RKZ: https://github.com/RickillerZ/cpuminer-RKZ
     * RicK~Z: Dev
-
+  - GUI-miner: https://github.com/Nugetzrul3/sugarchain-GUI-miner
+    * salmaan1234: Dev
 
 ### External Plug-ins Dev
   - Tipbot on Discord
