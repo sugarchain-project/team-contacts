@@ -15,6 +15,8 @@ nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesm
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
 MetaNøx | https://github.com/metastream | https://twitter.com/_metastream |
+joeland1 | https://github.com/joeland1 | Twitter |
+Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
 wahaobi | Github | Twitter | 
 soodal28 | Github | Twitter | 
 rplant | Github | Twitter | 
@@ -24,8 +26,6 @@ Dobro Fenix | Github | Twitter |
 Tesla | Github | Twitter | 
 Wheeler | Github | Twitter | 
 Jonn4y | Github | Twitter | 
-joeland1 | https://github.com/joeland1 | Twitter |
-Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
 
 
 ### Sugarchain Yumekawa Wallet Dev
