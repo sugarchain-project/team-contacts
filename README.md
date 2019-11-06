@@ -26,6 +26,7 @@ Dobro Fenix | Github | Twitter |
 Tesla | Github | Twitter | 
 Wheeler | Github | Twitter | 
 Jonn4y | Github | Twitter | 
+aglkm | https://github.com/aglkm | Twitter |  
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -96,8 +97,11 @@ Jonn4y | Github | Twitter |
     * volbil
   - Discord Manager: https://discord.gg/5fvpTdk
     * salmaan1234
-  - Twitter Manager (looking for applicant): https://twitter.com/sugarchain_dev
+  - Twitter Manager (dev): https://twitter.com/sugarchain_dev
     * cryptozeny
+  - Twitter Manager (org): https://twitter.com/sugarchainorg
+    * aglkm (owner)
+    * AestheticSenpai (tweetdeck)
   - Telegram Manager (looking for applicant): https://t.me/sugarchain
     * cryptozeny
   - Reddit Manager: https://www.reddit.com/r/Sugarchain/
