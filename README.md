@@ -102,6 +102,8 @@ aglkm | https://github.com/aglkm | Twitter |
   - Twitter Manager (org): https://twitter.com/sugarchainorg
     * aglkm (owner)
     * AestheticSenpai (tweetdeck)
+  - Twitter Manager (giveaway): https://twitter.com/sugargiveaway
+    * aglkm (owner)
   - Telegram Manager (looking for applicant): https://t.me/sugarchain
     * cryptozeny
   - Reddit Manager: https://www.reddit.com/r/Sugarchain/
