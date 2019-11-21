@@ -39,7 +39,7 @@ aglkm | https://github.com/aglkm | Twitter |
 
 
 ### 3rd Party Wallet Dev
-  - Paperwallet: https://nao20010128nao.github.io/WalletGenerator.net/ | https://github.com/nao20010128nao/WalletGenerator.net/
+  - Paperwallet: https://nao20010128nao.github.io/WalletGenerator.net/?currency=sugarchain
     * nao20010128nao: Dev, Server
   - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar
     * y-chan: Dev, Server
