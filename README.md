@@ -58,16 +58,18 @@ Raku Ten | Github | Twitter |
     * salmaan1234: Dev
 
 ### External Plug-ins Dev
-  - Tipbot on Discord
+  - Tipbot (Bot) on Discord
     * ilmango-doge: Dev
     * ~~MetaNøx: Dev, Server~~ ***(Scam)***
     * joeland1: Dev, Server
-  - Faucet on Discord
+  - Faucet (Bot) on Discord
     * joeland1: Dev, Server
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Application
   - Node Map: https://map.okoto.xyz/sugar
     * okoto-xyz: Dev, Server
+  - Suggy (Bot) on Discord
+    * aglkm
 
 
 ### Explorer Dev
