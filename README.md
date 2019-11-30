@@ -100,15 +100,16 @@ aglkm | https://github.com/aglkm | Twitter |
     * volbil
   - Discord Manager: https://discord.gg/5fvpTdk
     * salmaan1234
-  - Twitter Manager (dev): https://twitter.com/sugarchain_dev
-    * cryptozeny
-  - Twitter Manager (org): https://twitter.com/sugarchainorg
-    * aglkm (owner)
-    * AestheticSenpai (tweetdeck)
-  - Twitter Manager (giveaway): https://twitter.com/sugargiveaway
-    * aglkm (owner)
-  - Telegram Manager (looking for applicant): https://t.me/sugarchain
-    * cryptozeny
+  - Twitter Manager
+    * (dev): https://twitter.com/sugarchain_dev
+      - cryptozeny (owner)
+    * (org): https://twitter.com/sugarchainorg
+      - aglkm (owner)
+      - AestheticSenpai (tweetdeck)
+    * (giveaway): https://twitter.com/sugargiveaway
+      - aglkm (owner)
+  - Telegram Manager: https://t.me/sugarchain
+    * cryptozeny **(looking for applicant)**
   - Reddit Manager: https://www.reddit.com/r/Sugarchain/
     * Kezchenko
   - Website Dev (looking for applicant): https://sugarchain-project.github.io/
