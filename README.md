@@ -69,7 +69,7 @@ Raku Ten | Github | Twitter |
   - Node Map: https://map.okoto.xyz/sugar
     * okoto-xyz: Dev, Server
   - Suggy (Bot) on Discord
-    * aglkm
+    * aglkm: Dev, Server
 
 
 ### Explorer Dev
