@@ -27,6 +27,7 @@ Tesla | Github | Twitter |
 Wheeler | Github | Twitter | 
 Jonn4y | Github | Twitter | 
 aglkm | https://github.com/aglkm | Twitter |  
+Raku Ten | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -117,6 +118,8 @@ aglkm | https://github.com/aglkm | Twitter |
     * salmaan1234
   - Community Fund Manager of the Sugarchain Project
     * AestheticSenpai
+  - WeChat (Chinese) Manager: https://web.wechat.com/ (only invitation)
+    * Raku Ten
 
 
 ### Exchange
