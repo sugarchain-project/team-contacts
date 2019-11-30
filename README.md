@@ -131,5 +131,7 @@ aglkm | https://github.com/aglkm | Twitter |
       - API: https://altmarkets.io/api/v2/tickers/sugarbtc
     * SUGAR-DOGE: https://altmarkets.io/trading/sugardoge
       - API: https://altmarkets.io/api/v2/tickers/sugardoge
+    * SUGAR-ALTM: https://altmarkets.io/trading/sugaraltm
+      - API: https://altmarkets.io/api/v2/tickers/sugaraltm
     * Wheeler: Owner
     * Jonn4y: Dev
