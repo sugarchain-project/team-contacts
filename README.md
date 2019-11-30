@@ -28,6 +28,7 @@ Wheeler | Github | Twitter |
 Jonn4y | Github | Twitter | 
 aglkm | https://github.com/aglkm | Twitter |  
 Raku Ten | Github | Twitter | 
+ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -56,6 +57,12 @@ Raku Ten | Github | Twitter |
     * RicK~Z: Dev
   - GUI-miner: https://github.com/Nugetzrul3/sugarchain-GUI-miner
     * salmaan1234: Dev
+
+
+### Mining Pool Software Dev
+  - zny-nomp: https://github.com/ROZ-MOFUMOFU-ME/zny-nomp
+    * ROZ-MOFUMOFU-ME: Dev
+
 
 ### External Plug-ins Dev
   - Tipbot (Bot) on Discord
@@ -94,6 +101,8 @@ Raku Ten | Github | Twitter |
     * RicK~Z: Dev
   - hashpex: http://hashpex.com/
     * hashpex: Owner
+  - mofumofu: https://nomp.mofumofu.me/
+    * ROZ-MOFUMOFU-ME: Owner
 
 
 ### Community
