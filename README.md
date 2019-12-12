@@ -133,6 +133,24 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
     * Raku Ten
 
 
+### Infomation
+  - CoinGecko
+    * cryptozeny **(looking for applicant)**
+    * https://www.coingecko.com/en/coins/sugarchain
+  - CoinPaprika
+    * cryptozeny **(looking for applicant)**
+    * https://coinpaprika.com/coin/sugar-sugarchain/
+  - Blockfolio
+    * **(looking for applicant)**
+    * https://blockfolio.com/coin/SUGAR
+  - Delta
+    * **(looking for applicant)**
+    * https://delta.app/en/crypto/sugar/sugarchain
+  - niubiquan (china)
+    * Raku Ten
+    * https://www.niubiquan.com/coin/sugarchain-sugar/
+
+
 ### Exchange
   - Exchange Listing
     * AestheticSenpai
