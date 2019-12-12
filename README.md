@@ -141,10 +141,10 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
     * cryptozeny **(looking for applicant)**
     * https://coinpaprika.com/coin/sugar-sugarchain/
   - Blockfolio
-    * **(looking for applicant)**
+    * ~~MetaNøx~~ ***(Scam)*** **(looking for applicant)**
     * https://blockfolio.com/coin/SUGAR
   - Delta
-    * **(looking for applicant)**
+    * ~~MetaNøx~~ ***(Scam)*** **(looking for applicant)**
     * https://delta.app/en/crypto/sugar/sugarchain
   - niubiquan (china)
     * Raku Ten
