@@ -134,6 +134,9 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
 
 
 ### Infomation
+  - Mining Pool Stats
+    * AestheticSenpai, cryptozeny
+    * https://miningpoolstats.stream/sugarchain
   - CoinGecko
     * cryptozeny **(looking for applicant)**
     * https://www.coingecko.com/en/coins/sugarchain
