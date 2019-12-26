@@ -160,6 +160,7 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
   - ex4ange.org:
     * SUGAR-BTC: https://ex4ange.org/index.php?SUGAR-BTC
     * SUGAR-DOGE: https://ex4ange.org/index.php?SUGAR-DOGE
+      - API (All Coins): https://ex4ange.org/api.php
     * Dobro Fenix: Owner
     * Tesla: Dev
   - altmarkets.io:
