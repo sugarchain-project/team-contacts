@@ -30,6 +30,7 @@ aglkm | https://github.com/aglkm | Twitter |
 Raku Ten | https://github.com/rakuten | Twitter | 
 ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
 Joshua | Github | https://twitter.com/MiningLoud | 
+青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -106,6 +107,8 @@ Joshua | Github | https://twitter.com/MiningLoud |
     * ROZ-MOFUMOFU-ME: Owner
   - loudmining: https://sugar.loudmining.com
     * Joshua: Owner
+  - schoollt: https://pool.schoollt.cn/
+    * 青天: Owner
 
 
 ### Community
