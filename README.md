@@ -29,7 +29,7 @@ Jonn4y | Github | Twitter |
 aglkm | https://github.com/aglkm | Twitter |  
 Raku Ten | https://github.com/rakuten | Twitter | 
 ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
-Joshua | Github | Twitter | 
+Joshua | Github | https://twitter.com/MiningLoud | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
