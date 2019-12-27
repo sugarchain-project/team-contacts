@@ -29,6 +29,7 @@ Jonn4y | Github | Twitter |
 aglkm | https://github.com/aglkm | Twitter |  
 Raku Ten | https://github.com/rakuten | Twitter | 
 ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
+Joshua | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -103,6 +104,8 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
     * hashpex: Owner
   - mofumofu: https://nomp.mofumofu.me/
     * ROZ-MOFUMOFU-ME: Owner
+  - loudmining: https://sugar.loudmining.com
+    * Joshua: Owner
 
 
 ### Community
