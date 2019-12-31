@@ -17,7 +17,7 @@ RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ |
 ~~MetaNøx~~ ***(Scam)*** | ~~https://github.com/metastream~~ | ~~https://twitter.com/_metastream~~ |
 joeland1 | https://github.com/joeland1 | Twitter |
 Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
-wahaobi | Github | Twitter | 
+~~wahaobi (closed)~~ | Github | Twitter | 
 soodal28 | Github | Twitter | 
 rplant | Github | Twitter | 
 Loopyks | Github | Twitter | 
@@ -92,8 +92,8 @@ Joshua | Github | https://twitter.com/MiningLoud |
   - 1pool | 2pool: https://1pool.sugarchain.org/ | https://2pool.sugarchain.org/
     * cryptozeny: Owner
     * okoto-xyz: Bech32
-  - 52hash: http://sugar.52hash.com/
-    * wahaobi: Owner
+  - ~~52hash: http://sugar.52hash.com/ (closed)~~
+    * ~~wahaobi: Owner (closed)~~
   - happysensor.xyz: http://happysensor.xyz/
     * soodal28: Owner
   - rplant: https://pool.rplant.xyz/
