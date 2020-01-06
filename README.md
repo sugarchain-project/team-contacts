@@ -84,6 +84,10 @@ Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes |
     * okoto-xyz: Dev, Server
   - Suggy (Bot) on Discord
     * aglkm: Dev, Server
+  - API-addressindex: https://api.sugarchain.org
+    * volbil: Dev, Server
+    * cryptozeny: DNS
+    * Raku Ten: Support
 
 
 ### Explorer Dev
@@ -91,6 +95,9 @@ Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes |
     * cryptozeny: Dev, Server
   - trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks
     * ilmango-doge: Dev, Server
+  - addressindex explorer: https://sugar.wtf
+    * volbil: Dev, Server
+    * Raku Ten: Support
 
 
 ### Pool Operators
