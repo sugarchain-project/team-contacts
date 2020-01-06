@@ -31,6 +31,7 @@ Raku Ten | https://github.com/rakuten | Twitter |
 ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
 Joshua | Github | https://twitter.com/MiningLoud | 
 青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | 
+Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -137,6 +138,8 @@ Joshua | Github | https://twitter.com/MiningLoud |
     * AestheticSenpai
   - WeChat (Chinese) Manager: https://web.wechat.com/ (only invitation)
     * Raku Ten
+  - Telegram Indonesia Manager: https://t.me/SugarIndonesia
+    * Kutil Jaran
 
 
 ### Infomation
