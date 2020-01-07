@@ -32,6 +32,7 @@ ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_m
 Joshua | Github | https://twitter.com/MiningLoud | 
 青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | 
 Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | 
+Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -64,6 +65,9 @@ Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes |
     * RicK~Z: Dev
   - GUI-miner: https://github.com/Nugetzrul3/sugarchain-GUI-miner
     * salmaan1234: Dev
+  - USB Live Miner: https://gitlab.com/Sandelinos/sugarchain-live-miner
+    * YouTube Tutorial: https://youtu.be/2XavHsBIsP4
+    * Sandelinos: Dev
 
 
 ### Mining Pool Software Dev
