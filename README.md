@@ -35,6 +35,7 @@ Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes |
 Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | 
 dxpool | Github | Twitter | 
 anomp | Github | Twitter | 
+kaka | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -132,6 +133,8 @@ anomp | Github | Twitter |
     * dxpool: Owner
   - anomp: http://anomp.com:8090/
     * anomp: Owner
+  - smartpool: http://139.129.229.26/
+    * kaka: Owner
 
 
 ### Community
