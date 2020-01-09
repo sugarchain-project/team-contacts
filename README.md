@@ -33,6 +33,8 @@ Joshua | Github | https://twitter.com/MiningLoud |
 青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | 
 Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | 
 Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | 
+dxpool | Github | Twitter | 
+anomp | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -126,6 +128,10 @@ Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 |
     * Joshua: Owner
   - schoollt: https://pool.schoollt.cn/
     * 青天: Owner
+  - dxpool: https://www.dxpool.com/
+    * dxpool: Owner
+  - anomp: http://anomp.com:8090/
+    * anomp: Owner
 
 
 ### Community
