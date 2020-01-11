@@ -142,8 +142,8 @@ kaka | Github | Twitter |
     * cryptozeny
   - Forum Manager: https://forum.sugarchain.org/
     * volbil
-  - Discord Manager: https://discord.gg/5fvpTdk
-    * salmaan1234
+  - ~~Discord Manager: https://discord.gg/5fvpTdk (closed)~~
+    * ~~salmaan1234 (closed)~~
   - Twitter Manager
     * (dev): https://twitter.com/sugarchain_dev
       - cryptozeny (owner)
