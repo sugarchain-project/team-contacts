@@ -209,7 +209,7 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
     * Jonn4y: Dev
   - occe.io:
     * SUGAR-BTC: https://www.occe.io/sugar_btc
-      - API:
+      - API: https://www.occe.io/api/v2/public/info/sugar_btc
     * Igor: Owner
     * Roman: Dev
     * Telegram: https://t.me/occeio
