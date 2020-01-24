@@ -102,8 +102,8 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
 ### Explorer Dev
   - iquidus: https://1explorer.sugarchain.org/
     * cryptozeny: Dev, Server
-  - trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks
-    * ilmango-doge: Dev, Server
+  - ~~trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks (closed)~~
+    * ~~ilmango-doge: Dev, Server (closed)~~
   - addressindex explorer: https://sugar.wtf
     * volbil: Dev, Server
     * Raku Ten: Support
