@@ -83,7 +83,7 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
   - ~~Tipbot (Bot) on Discord (closed)~~
     * ~~ilmango-doge: Dev (closed)~~
     * ~~MetaNøx: Dev, Server~~ ***(Scam)***
-    * joeland1: Dev, Server
+    * ~~joeland1: Dev, Server (closed)~~
   - ~~Faucet (Bot) on Discord (closed)~~
     * ~~joeland1: Dev, Server (closed)~~
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
