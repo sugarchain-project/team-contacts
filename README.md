@@ -37,6 +37,8 @@ dxpool | Github | Twitter |
 anomp | Github | Twitter | 
 kaka | Github | Twitter | 
 decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | 
+Igor | Github | Twitter | 
+Roman | Github | Twitter | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
