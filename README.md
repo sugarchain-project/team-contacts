@@ -36,6 +36,7 @@ Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 |
 dxpool | Github | Twitter | 
 anomp | Github | Twitter | 
 kaka | Github | Twitter | 
+decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
