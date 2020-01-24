@@ -80,18 +80,18 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
 
 
 ### External Plug-ins Dev
-  - Tipbot (Bot) on Discord
-    * ilmango-doge: Dev
+  - ~~Tipbot (Bot) on Discord (closed)~~
+    * ~~ilmango-doge: Dev (closed)~~
     * ~~MetaNøx: Dev, Server~~ ***(Scam)***
-    * joeland1: Dev, Server
-  - Faucet (Bot) on Discord
-    * joeland1: Dev, Server
+    * ~~joeland1: Dev, Server (closed)~~
+  - ~~Faucet (Bot) on Discord (closed)~~
+    * ~~joeland1: Dev, Server (closed)~~
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Application
   - Node Map: https://map.okoto.xyz/sugar
     * okoto-xyz: Dev, Server
-  - Suggy (Bot) on Discord
-    * aglkm: Dev, Server
+  - ~~Suggy (Bot) on Discord (closed)~~
+    * ~~aglkm: Dev, Server (closed)~~
   - API-addressindex: https://api.sugarchain.org
     * Yumekawa API branch: https://github.com/sugarchain-project/sugarchain/tree/API-addressindex
     * volbil: Dev, Server
