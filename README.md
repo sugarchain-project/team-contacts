@@ -207,3 +207,9 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
       - API: https://altmarkets.io/api/v2/tickers/sugaraltm
     * Wheeler: Owner
     * Jonn4y: Dev
+  - occe.io:
+    * SUGAR-BTC: https://www.occe.io/sugar_btc
+      - API:
+    * Igor: Owner
+    * Roman: Dev
+    * Telegram: https://t.me/occeio
