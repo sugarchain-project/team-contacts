@@ -196,6 +196,7 @@ Roman | Github | Twitter | Keybase |
       - API: https://altmarkets.io/api/v2/tickers/sugaraltm
     * Wheeler: Owner
     * Jonn4y: Dev
+    * Telegram: https://t.me/altmarkets
   - occe.io:
     * SUGAR-BTC: https://www.occe.io/sugar_btc
       - API: https://www.occe.io/api/v2/public/info/sugar_btc
