@@ -14,10 +14,8 @@ AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/Aesth
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
 RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
-~~MetaNøx~~ ***(Scam)*** | ~~https://github.com/metastream~~ | ~~https://twitter.com/_metastream~~ |
 joeland1 | https://github.com/joeland1 | Twitter |
 Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
-~~wahaobi (closed)~~ | Github | Twitter | 
 soodal28 | Github | Twitter | 
 rplant | Github | Twitter | 
 Loopyks | Github | Twitter | 
@@ -82,18 +80,10 @@ Roman | Github | Twitter |
 
 
 ### External Plug-ins Dev
-  - ~~Tipbot (Bot) on Discord (closed)~~
-    * ~~ilmango-doge: Dev (closed)~~
-    * ~~MetaNøx: Dev, Server~~ ***(Scam)***
-    * ~~joeland1: Dev, Server (closed)~~
-  - ~~Faucet (Bot) on Discord (closed)~~
-    * ~~joeland1: Dev, Server (closed)~~
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Application
   - Node Map: https://map.okoto.xyz/sugar
     * okoto-xyz: Dev, Server
-  - ~~Suggy (Bot) on Discord (closed)~~
-    * ~~aglkm: Dev, Server (closed)~~
   - API-addressindex: https://api.sugarchain.org
     * Yumekawa API branch: https://github.com/sugarchain-project/sugarchain/tree/API-addressindex
     * volbil: Dev, Server
@@ -104,8 +94,6 @@ Roman | Github | Twitter |
 ### Explorer Dev
   - iquidus: https://1explorer.sugarchain.org/
     * cryptozeny: Dev, Server
-  - ~~trezor blockbook: https://sugarchain-blockbook.ilmango.work/blocks (closed)~~
-    * ~~ilmango-doge: Dev, Server (closed)~~
   - addressindex explorer: https://sugar.wtf
     * volbil: Dev, Server
     * Raku Ten: Support
@@ -115,8 +103,6 @@ Roman | Github | Twitter |
   - 1pool | 2pool: https://1pool.sugarchain.org/ | https://2pool.sugarchain.org/
     * cryptozeny: Owner
     * okoto-xyz: Bech32
-  - ~~52hash: http://sugar.52hash.com/ (closed)~~
-    * ~~wahaobi: Owner (closed)~~
   - happysensor.xyz: http://happysensor.xyz/
     * soodal28: Owner
   - rplant: https://pool.rplant.xyz/
@@ -145,8 +131,6 @@ Roman | Github | Twitter |
     * cryptozeny
   - Forum Manager: https://forum.sugarchain.org/
     * volbil
-  - ~~Discord Manager: https://discord.gg/5fvpTdk (closed)~~
-    * ~~salmaan1234 (closed)~~
   - Twitter Manager
     * (dev): https://twitter.com/sugarchain_dev
       - cryptozeny (owner)
@@ -181,10 +165,10 @@ Roman | Github | Twitter |
     * cryptozeny **(looking for applicant)**
     * https://coinpaprika.com/coin/sugar-sugarchain/
   - Blockfolio
-    * ~~MetaNøx~~ ***(Scam)*** **(looking for applicant)**
+    * **(looking for applicant)**
     * https://blockfolio.com/coin/SUGAR
   - Delta
-    * ~~MetaNøx~~ ***(Scam)*** **(looking for applicant)**
+    * **(looking for applicant)**
     * https://delta.app/en/crypto/sugar/sugarchain
   - niubiquan (china)
     * Raku Ten
