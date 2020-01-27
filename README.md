@@ -53,7 +53,7 @@ Roman | Github | Twitter |
     * nao20010128nao: Dev, Server
   - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar
     * y-chan: Dev, Server
-  - Web Wallet: https://sugar.wtf/wallet
+  - Web Wallet: Stable https://sugarchain.org/wallet Experimental https://sugar.wtf/wallet
     * volbil: Dev, Server
     * cryptozeny: Review
     * Raku ten: Support
