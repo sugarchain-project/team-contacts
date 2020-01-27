@@ -31,7 +31,7 @@ Joshua | Github | https://twitter.com/MiningLoud | Keybase |
 青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | Keybase | 
 Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | Keybase | 
 Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | Keybase | 
-dxpool | Github | Twitter | Keybase | 
+dxpool | Github | https://twitter.com/DxPool3 | Keybase | 
 anomp | Github | Twitter | Keybase | 
 kaka | Github | Twitter | Keybase | 
 decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | https://keybase.io/decryp2kanon | 
