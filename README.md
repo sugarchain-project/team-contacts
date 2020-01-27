@@ -152,6 +152,9 @@ Roman | Github | Twitter |
     * Raku Ten
   - Telegram Indonesia Manager: https://t.me/SugarIndonesia
     * Kutil Jaran
+  - Rocket.Chat Manager: https://chat.sugar.wtf
+    * volbil: Server, Dev, Owner
+    * cryptozeny: Admin
 
 
 ### Infomation
