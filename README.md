@@ -42,7 +42,7 @@ Roman | Github | Twitter | Keybase |
 ### Sugarchain Yumekawa Wallet Dev
   - Yumekawa: https://github.com/sugarchain-project/sugarchain
     * cryptozeny: Dev, YespowerSugar, SugarShield-N510
-    * volbil: Halving, OSX support
+    * volbil: Halving, OSX support, PoW cache
     * okoto-xyz: Halving, Bech32
     * ilmango-doge: Bech32
     * salmaan1234: Review
