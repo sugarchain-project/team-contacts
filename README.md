@@ -94,7 +94,7 @@ Roman | Github | Twitter |
 ### Explorer Dev
   - iquidus: https://1explorer.sugarchain.org/
     * cryptozeny: Dev, Server
-  - addressindex explorer: https://sugar.wtf
+  - addressindex explorer: Stable: https://sugarchain.org/explorer Experimental https://sugar.wtf
     * volbil: Dev, Server
     * Raku Ten: Support
 
