@@ -3,40 +3,40 @@ Who is in the team, and what's his/her function?
 
 
 ### People
-Name | Github | Twitter |
---|--|--|
-cryptozeny | https://github.com/cryptozeny | https://twitter.com/cryptozeny | 
-volbil | https://github.com/volbil | https://twitter.com/volbil | 
-okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | 
-ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | 
-salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | 
-AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/AestheticSenpa1 | 
-nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | 
-y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | 
-RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | 
-joeland1 | https://github.com/joeland1 | Twitter |
-Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard |
-soodal28 | Github | Twitter | 
-rplant | Github | Twitter | 
-Loopyks | Github | Twitter | 
-hashpex | Github | Twitter | 
-Dobro Fenix | Github | Twitter | 
-Tesla | Github | Twitter | 
-Wheeler | Github | Twitter | 
-Jonn4y | Github | Twitter | 
-aglkm | https://github.com/aglkm | Twitter |  
-Raku Ten | https://github.com/rakuten | Twitter | 
-ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | 
-Joshua | Github | https://twitter.com/MiningLoud | 
-青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | 
-Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | 
-Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | 
-dxpool | Github | Twitter | 
-anomp | Github | Twitter | 
-kaka | Github | Twitter | 
-decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | 
-Igor | Github | Twitter | 
-Roman | Github | Twitter | 
+Name | Github | Twitter | Keybase | 
+--|--|--|--| 
+cryptozeny | https://github.com/cryptozeny | https://twitter.com/cryptozeny | https://keybase.io/cryptozeny | 
+volbil | https://github.com/volbil | https://twitter.com/volbil | https://keybase.io/volbil | 
+okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | Keybase | 
+ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | https://keybase.io/ilmang0 | 
+salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | https://keybase.io/nugetzrul3 | 
+AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/AestheticSenpa1 | https://keybase.io/aestheticsenpa1 | 
+nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | Keybase | 
+y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | Keybase | 
+RicK~Z | https://github.com/RickillerZ | https://twitter.com/RickillerZ | Keybase | 
+joeland1 | https://github.com/joeland1 | Twitter | Keybase | 
+Kezchenko | https://github.com/Kezchenko | https://twitter.com/16bitbastard | Keybase | 
+soodal28 | Github | Twitter | Keybase | 
+rplant | Github | Twitter | Keybase | 
+Loopyks | Github | Twitter | Keybase | 
+hashpex | Github | Twitter | Keybase | 
+Dobro Fenix | Github | Twitter | Keybase | 
+Tesla | Github | Twitter | https://keybase.io/teslasesla | 
+Wheeler | Github | Twitter | Keybase | 
+Jonn4y | Github | Twitter | Keybase | 
+aglkm | https://github.com/aglkm | Twitter | Keybase | 
+Raku Ten | https://github.com/rakuten | Twitter | Keybase | 
+ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | Keybase | 
+Joshua | Github | https://twitter.com/MiningLoud | Keybase | 
+青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | Keybase | 
+Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | Keybase | 
+Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | Keybase | 
+dxpool | Github | Twitter | Keybase | 
+anomp | Github | Twitter | Keybase | 
+kaka | Github | Twitter | Keybase | 
+decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | https://keybase.io/decryp2kanon | 
+Igor | Github | Twitter | Keybase | 
+Roman | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
