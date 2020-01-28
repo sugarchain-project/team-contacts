@@ -28,7 +28,6 @@ aglkm | https://github.com/aglkm | Twitter | Keybase |
 Raku Ten | https://github.com/rakuten | Twitter | Keybase | 
 ROZ-MOFUMOFU-ME | https://github.com/ROZ-MOFUMOFU-ME | https://twitter.com/ROZ_mofumofu_me | Keybase | 
 Joshua | Github | https://twitter.com/MiningLoud | Keybase | 
-青天 | Github | https://twitter.com/QEXkGvTzuzZVx8q | Keybase | 
 Kutil Jaran | https://github.com/kodok17 | https://twitter.com/echo_agoes | Keybase | 
 Sandelinos | https://gitlab.com/sandelinos | https://twitter.com/Sandelinos144 | Keybase | 
 dxpool | Github | https://twitter.com/DxPool3 | Keybase | 
@@ -116,8 +115,6 @@ Roman | Github | Twitter | Keybase |
     * ROZ-MOFUMOFU-ME: Owner
   - loudmining: https://sugar.loudmining.com
     * Joshua: Owner
-  - schoollt: https://pool.schoollt.cn/
-    * 青天: Owner
   - dxpool: https://www.dxpool.com/
     * dxpool: Owner
   - anomp: http://anomp.com:8090/
