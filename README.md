@@ -90,7 +90,6 @@ root-pool | Github | Twitter | Keybase |
   - API-addressindex: https://api.sugarchain.org
     * Yumekawa API branch: https://github.com/sugarchain-project/sugarchain/tree/API-addressindex
     * volbil: Dev, Server
-    * cryptozeny: DNS
     * Raku Ten: Support
   - Reward Half Countdown: https://sugarchain-blockhalf.github.io
     * salmaan1234: Dev
