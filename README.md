@@ -176,6 +176,9 @@ root-pool | Github | Twitter | Keybase |
   - niubiquan (china)
     * Raku Ten
     * https://www.niubiquan.com/coin/sugarchain-sugar/
+  - Reward Half Countdown: https://sugarchain-blockhalf.github.io
+    * salmaan1234: Dev
+    * volbil: Dev
 
 
 ### Exchange
