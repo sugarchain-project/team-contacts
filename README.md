@@ -82,6 +82,9 @@ root-pool | Github | Twitter | Keybase |
 ### External Plug-ins Dev
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
     * ilmango-doge: Application
+
+
+## Service Dev
   - Node Map: https://map.okoto.xyz/sugar
     * okoto-xyz: Dev, Server
   - API-addressindex: https://api.sugarchain.org
@@ -89,6 +92,9 @@ root-pool | Github | Twitter | Keybase |
     * volbil: Dev, Server
     * cryptozeny: DNS
     * Raku Ten: Support
+  - Reward Half Countdown: https://sugarchain-blockhalf.github.io
+    * salmaan1234: Dev
+    * volbil: Dev
 
 
 ### Explorer Dev
@@ -176,9 +182,6 @@ root-pool | Github | Twitter | Keybase |
   - niubiquan (china)
     * Raku Ten
     * https://www.niubiquan.com/coin/sugarchain-sugar/
-  - Reward Half Countdown: https://sugarchain-blockhalf.github.io
-    * salmaan1234: Dev
-    * volbil: Dev
 
 
 ### Exchange
