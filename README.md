@@ -9,7 +9,7 @@ cryptozeny | https://github.com/cryptozeny | https://twitter.com/cryptozeny | ht
 volbil | https://github.com/volbil | https://twitter.com/volbil | https://keybase.io/volbil | 
 okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | Keybase | 
 ilmango-doge | https://github.com/ilmango-doge | https://twitter.com/ilmango_doge | https://keybase.io/ilmang0 | 
-salmaan1234 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | https://keybase.io/nugetzrul3 | 
+~~salmaan1234~~ Nugetzrul3 | https://github.com/Nugetzrul3 | https://twitter.com/SNagoormira | https://keybase.io/nugetzrul3 | 
 AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/AestheticSenpa1 | Keybase | 
 nao20010128nao | https://github.com/nao20010128nao | https://twitter.com/2ndLesmi | Keybase | 
 y-chan | https://github.com/y-chan | https://twitter.com/Xperia_Build_Y | Keybase | 
@@ -68,7 +68,7 @@ root-pool | Github | Twitter | Keybase |
   - cpuminer-RKZ: https://github.com/RickillerZ/cpuminer-RKZ
     * RicK~Z: Dev
   - GUI-miner: https://github.com/Nugetzrul3/sugarchain-GUI-miner
-    * salmaan1234: Dev
+    * Nugetzrul3: Dev
   - USB Live Miner: https://gitlab.com/Sandelinos/sugarchain-live-miner
     * YouTube Tutorial: https://youtu.be/2XavHsBIsP4
     * Sandelinos: Dev
@@ -92,7 +92,7 @@ root-pool | Github | Twitter | Keybase |
     * volbil: Dev, Server
     * Raku Ten: Support
   - Reward Half Countdown: https://sugarchain-blockhalf.github.io
-    * salmaan1234: Dev
+    * Nugetzrul3: Dev
     * volbil: Dev
 
 
