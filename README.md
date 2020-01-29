@@ -45,7 +45,7 @@ root-pool | Github | Twitter | Keybase |
     * volbil: Halving, OSX support, PoW cache
     * okoto-xyz: Halving, Bech32
     * ilmango-doge: Bech32
-    * salmaan1234: Review
+    * Nugetzrul3: Review
 
 
 ### 3rd Party Wallet Dev
@@ -150,7 +150,7 @@ root-pool | Github | Twitter | Keybase |
     * Kezchenko
   - Website Dev (looking for applicant): https://sugarchain-project.github.io/
     * volbil
-    * salmaan1234
+    * Nugetzrul3
   - Community Fund Manager of the Sugarchain Project
     * AestheticSenpai
   - WeChat (Chinese) Manager: https://web.wechat.com/ (only invitation)
