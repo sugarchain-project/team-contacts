@@ -124,7 +124,7 @@ Roman | Github | Twitter | Keybase |
     * dxpool: Owner
   - anomp: http://anomp.com:8090/
     * anomp: Owner
-  - smartpool: http://139.129.229.26/
+  - ~~smartpool~~ lepool: ~~http://139.129.229.26/~~ http://www.lepool.com.cn:8080/
     * kaka: Owner
 
 
