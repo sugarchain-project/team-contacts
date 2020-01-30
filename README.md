@@ -36,7 +36,6 @@ kaka | Github | Twitter | Keybase |
 decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | https://keybase.io/decryp2kanon | 
 Igor | Github | Twitter | Keybase | 
 Roman | Github | Twitter | Keybase | 
-root-pool | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -127,8 +126,6 @@ root-pool | Github | Twitter | Keybase |
     * anomp: Owner
   - smartpool: http://139.129.229.26/
     * kaka: Owner
-  - root-pool: http://root-pool.com/
-    * root-pool: Owner
 
 
 ### Community
