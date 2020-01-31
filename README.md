@@ -49,7 +49,9 @@ Roman | Github | Twitter | Keybase |
 
 ### 3rd Party Wallet Dev
   - Paperwallet: https://nao20010128nao.github.io/WalletGenerator.net/?currency=sugarchain
-    * nao20010128nao: Dev, Server
+    * nao20010128nao: Dev
+  - Paperwallet (old version): https://sugarchain.org/SugarWalletGenerator.net/?currency=sugarchain
+    * nao20010128nao: Dev
   - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar
     * y-chan: Dev, Server
   - Web Wallet: Stable https://sugarchain.org/wallet Experimental https://sugar.wtf/wallet
