@@ -36,6 +36,7 @@ kaka | Github | Twitter | Keybase |
 decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kanon | https://keybase.io/decryp2kanon | 
 Igor | Github | Twitter | Keybase | 
 Roman | Github | Twitter | Keybase | 
+Patryk | https://github.com/patrykwnosuch | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -128,6 +129,8 @@ Roman | Github | Twitter | Keybase |
     * anomp: Owner
   - lepool: http://www.lepool.com.cn:8080/
     * kaka: Owner
+  - nosuchpool: https://nosuchpool.cloud/
+    * Patryk: Owner
 
 
 ### Community
