@@ -37,6 +37,7 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
 Igor | Github | Twitter | Keybase | 
 Roman | Github | Twitter | Keybase | 
 Patryk | https://github.com/patrykwnosuch | Twitter | Keybase | 
+Oleh Basystiuk | https://github.com/obasys | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -58,6 +59,14 @@ Patryk | https://github.com/patrykwnosuch | Twitter | Keybase |
   - Web Wallet: Stable https://sugarchain.org/wallet Experimental https://sugar.wtf/wallet
     * volbil: Dev, Server
     * cryptozeny: Review
+    * Raku ten: Support
+  - Android Wallet: coming soon
+    * Oleh Basystiuk: Dev
+    * volbil: Server
+    * Raku ten: Support
+  - iOS Wallet: coming soon
+    * Oleh Basystiuk: Dev
+    * volbil: Server
     * Raku ten: Support
 
 
