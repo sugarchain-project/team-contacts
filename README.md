@@ -37,7 +37,7 @@ decryp2kanon | https://github.com/decryp2kanon | https://twitter.com/decryp2kano
 Igor | Github | Twitter | Keybase | 
 Roman | Github | Twitter | Keybase | 
 Patryk | https://github.com/patrykwnosuch | Twitter | Keybase | 
-obasys | https://github.com/obasys | twitter.com/basystiuk | Keybase | 
+obasys | https://github.com/obasys | https://twitter.com/basystiuk | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
