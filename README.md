@@ -38,6 +38,7 @@ Igor | Github | Twitter | Keybase |
 Roman | Github | Twitter | Keybase | 
 Patryk | https://github.com/patrykwnosuch | Twitter | Keybase | 
 obasys | https://github.com/obasys | https://twitter.com/basystiuk | Keybase | 
+Arthur9527 | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -219,3 +220,9 @@ obasys | https://github.com/obasys | https://twitter.com/basystiuk | Keybase |
     * Igor: Owner
     * Roman: Dev
     * Telegram: https://t.me/occeio
+  - sky.io:
+    * SUGAR-USDT: https://www.sky.io/exchange/SUGAR_USDT
+      - API: coming soon
+    * Arthur9527: Owner
+    * Telegram(english): https://t.me/skyio_EN
+    * Telegram(chinese): https://t.me/skyio_CN
