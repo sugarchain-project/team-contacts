@@ -61,7 +61,7 @@ Arthur9527 | Github | Twitter | Keybase |
     * volbil: Dev, Server
     * cryptozeny: Review
     * Raku ten: Support
-  - Android Wallet: coming soon
+  - Android Wallet: APK https://github.com/sugarchain-project/android_wallet_sugarchain/releases/latest Google coming_soon
     * obasys: Dev
     * volbil: Server
     * Raku ten: Support
