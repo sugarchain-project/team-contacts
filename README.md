@@ -39,6 +39,7 @@ Roman | Github | Twitter | Keybase |
 Patryk | https://github.com/patrykwnosuch | Twitter | Keybase | 
 obasys | https://github.com/obasys | https://twitter.com/basystiuk | Keybase | 
 Arthur9527 | Github | Twitter | Keybase | 
+barrystyle | https://github.com/barrystyle | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -89,7 +90,8 @@ Arthur9527 | Github | Twitter | Keybase |
 ### Mining Pool Software Dev
   - zny-nomp: https://github.com/ROZ-MOFUMOFU-ME/zny-nomp
     * ROZ-MOFUMOFU-ME: Dev
-
+  - YIIMP-SUGAR: https://github.com/barrystyle/yiimp-sugarchain
+    * barrysyle: Dev
 
 ### External Plug-ins Dev
   - SLIP: https://github.com/satoshilabs/slips/commit/846ee985f481614b3b28e0f3061a7d74b531236d
