@@ -40,6 +40,7 @@ Patryk | https://github.com/patrykwnosuch | Twitter | Keybase |
 obasys | https://github.com/obasys | https://twitter.com/basystiuk | Keybase | 
 Arthur9527 | Github | Twitter | Keybase | 
 barrystyle | https://github.com/barrystyle | Twitter | Keybase | 
+U. Patrick | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -143,6 +144,8 @@ barrystyle | https://github.com/barrystyle | Twitter | Keybase |
     * kaka: Owner
   - nosuchpool: https://nosuchpool.cloud/
     * Patryk: Owner
+  - customspeed: http://pool.customspeed.nl/
+    * U. Patrick: Owner
 
 
 ### Community
