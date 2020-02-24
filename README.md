@@ -57,17 +57,17 @@ U. Patrick | Github | Twitter | Keybase |
     * nao20010128nao: Dev
   - Paperwallet (old version): https://sugarchain.org/SugarWalletGenerator.net/?currency=sugarchain
     * nao20010128nao: Dev
-  - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar
+  - Electrum `(in progress)` : https://github.com/sugarchain-project/electrum-sugar *coming soon*
     * y-chan: Dev, Server
   - Web Wallet: Stable https://sugarchain.org/wallet Experimental https://sugar.wtf/wallet
     * volbil: Dev, Server
     * cryptozeny: Review
     * Raku ten: Support
-  - Android Wallet: APK https://github.com/sugarchain-project/android_wallet_sugarchain/releases/latest Google coming_soon
+  - Android Wallet: APK https://github.com/sugarchain-project/android_wallet_sugarchain/releases/latest Google *coming soon*
     * obasys: Dev
     * volbil: Server
     * Raku ten: Support
-  - iOS Wallet: coming soon
+  - iOS Wallet: *coming soon*
     * obasys: Dev
     * volbil: Server
     * Raku ten: Support
@@ -227,7 +227,7 @@ U. Patrick | Github | Twitter | Keybase |
     * Telegram: https://t.me/occeio
   - sky.io:
     * SUGAR-USDT: https://www.sky.io/exchange/SUGAR_USDT
-      - API: coming soon
+      - API: *coming soon*
     * Arthur9527: Owner
     * Telegram(english): https://t.me/skyio_EN
     * Telegram(chinese): https://t.me/skyio_CN
