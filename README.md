@@ -42,6 +42,7 @@ Arthur9527 | Github | Twitter | Keybase |
 barrystyle | https://github.com/barrystyle | Twitter | Keybase | 
 U. Patrick | Github | Twitter | Keybase | 
 Casper | Github | Twitter | Keybase | 
+Gene Chandler | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -149,6 +150,8 @@ Casper | Github | Twitter | Keybase |
     * U. Patrick: Owner
   - scryptpool: http://scryptpool.xyz/
     * Casper: Owner
+  - miningmadness: https://www.miningmadness.com/
+    * Gene Chandler: Owner
 
 
 ### Community
