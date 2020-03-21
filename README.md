@@ -43,6 +43,7 @@ barrystyle | https://github.com/barrystyle | Twitter | Keybase |
 U. Patrick | Github | Twitter | Keybase | 
 Casper | Github | Twitter | Keybase | 
 Gene Chandler | Github | Twitter | Keybase | 
+素人  | Github | Twitter | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -152,6 +153,8 @@ Gene Chandler | Github | Twitter | Keybase |
     * Casper: Owner
   - miningmadness: https://www.miningmadness.com/
     * Gene Chandler: Owner
+  - pool.work: http://sugar.pool.work:8000/
+    * 素人: Owner
 
 
 ### Community
