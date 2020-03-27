@@ -53,6 +53,7 @@ Gene Chandler | Github | Twitter | Keybase |
     * okoto-xyz: Halving, Bech32
     * ilmango-doge: Bech32
     * Nugetzrul3: Review
+    * decryp2kanon: Sync, IBD (Initial Blockchain Download)
 
 
 ### 3rd Party Wallet Dev
@@ -89,6 +90,8 @@ Gene Chandler | Github | Twitter | Keybase |
   - USB Live Miner: https://gitlab.com/Sandelinos/sugarchain-live-miner
     * YouTube Tutorial: https://youtu.be/2XavHsBIsP4
     * Sandelinos: Dev
+  - sugarmaker: https://github.com/decryp2kanon/sugarmaker
+    * decryp2kanon: Dev
 
 
 ### Mining Pool Software Dev
@@ -240,3 +243,12 @@ Gene Chandler | Github | Twitter | Keybase |
     * Arthur9527: Owner
     * Telegram(english): https://t.me/skyio_EN
     * Telegram(chinese): https://t.me/skyio_CN
+  - erex.io
+    * SUGAR-BTC: https://erex.io/exchange/SUGAR/BTC
+      - API: *coming soon*
+    * SUGAR-ETH: https://erex.io/exchange/SUGAR/ETH
+      - API: *coming soon*
+    * SUGAR-DOGE: https://erex.io/exchange/SUGAR/DOGE
+      - API: *coming soon*
+    * SUGAR-USDT: https://erex.io/exchange/SUGAR/USDT
+      - API: *coming soon*
