@@ -45,6 +45,7 @@ Casper | Github | Twitter | Keybase |
 Gene Chandler | Github | Twitter | Keybase | 
 素人  | Github | Twitter | Keybase | 
 jangchongchan20  | https://github.com/jangchongchan20 | https://twitter.com/jangchongchan20 | https://keybase.io/jangchongchan20 | 
+yentencoin | Github | https://twitter.com/yentencoin | Keybase | 
 
 
 ### Sugarchain Yumekawa Wallet Dev
@@ -116,6 +117,8 @@ jangchongchan20  | https://github.com/jangchongchan20 | https://twitter.com/jang
   - Reward Half Countdown: https://sugarchain-blockhalf.github.io
     * Nugetzrul3: Dev
     * volbil: Dev
+  - Faucet: http://cpu-mining.info/sugarchain-faucet/
+    * yentencoin: Dev, Server
 
 
 ### Explorer Dev
