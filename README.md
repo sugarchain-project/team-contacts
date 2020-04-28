@@ -129,7 +129,7 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
     * Raku Ten: Support
   - blockbook: https://sugarbook.xyz/
     * ilmango-doge: Dev
-    * jangchongchan20: Dev, Server
+    * 장총찬: Dev, Server
 
 
 ### Pool Operators
