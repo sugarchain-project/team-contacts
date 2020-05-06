@@ -44,7 +44,6 @@ U. Patrick | Github | Twitter | Keybase |
 Casper | Github | Twitter | Keybase | 
 Gene Chandler | Github | Twitter | Keybase | 
 素人  | Github | Twitter | Keybase | 
-장총찬 (Jang Chongchan)  | https://github.com/jangchongchan20 | https://twitter.com/jangchongchan20 | https://keybase.io/jangchongchan20 |
 yentencoin | Github | https://twitter.com/yentencoin | Keybase | 
 
 
@@ -127,9 +126,6 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
   - addressindex-explorer: Stable: https://sugarchain.org/explorer Experimental https://sugar.wtf
     * volbil: Dev, Server
     * Raku Ten: Support
-  - blockbook: https://sugarbook.xyz/
-    * ilmango-doge: Dev
-    * 장총찬: Dev, Server
 
 
 ### Pool Operators
