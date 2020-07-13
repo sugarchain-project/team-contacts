@@ -76,6 +76,10 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
     * obasys: Dev
     * volbil: Server
     * Raku ten: Support
+  - Wallet Extension for Google Chrome: https://chrome.google.com/webstore/detail/sugarchain-wallet-extensi/pgojdfajgcjjpjnbpfaelnpnjocakldb
+    * Nugetzrul3: Dev https://github.com/Nugetzrul3/Sugarchain-Chrome-Wallet
+- Wallet Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/sugarchain-wallet-extension/
+    * Nugetzrul3: Dev https://github.com/Nugetzrul3/Sugarchain-Firefox-Wallet
 
 
 ### CPUminer Dev
