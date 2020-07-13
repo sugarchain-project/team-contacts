@@ -78,7 +78,7 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
     * Raku ten: Support
   - Wallet Extension for Google Chrome: https://chrome.google.com/webstore/detail/sugarchain-wallet-extensi/pgojdfajgcjjpjnbpfaelnpnjocakldb
     * Nugetzrul3: Dev https://github.com/Nugetzrul3/Sugarchain-Chrome-Wallet
-- Wallet Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/sugarchain-wallet-extension/
+  - Wallet Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/sugarchain-wallet-extension/
     * Nugetzrul3: Dev https://github.com/Nugetzrul3/Sugarchain-Firefox-Wallet
 
 
