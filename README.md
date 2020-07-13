@@ -120,7 +120,7 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
   - Reward Half Countdown: https://sugarchain-blockhalf.github.io
     * Nugetzrul3: Dev
     * volbil: Dev
-  - Faucet: http://cpu-mining.info/sugarchain-faucet/
+  - Faucet: https://cpu-mining.info/sugarchain-faucet/
     * yentencoin: Dev, Server
 
 
