@@ -130,6 +130,8 @@ yentencoin | Github | https://twitter.com/yentencoin | Keybase |
   - addressindex-explorer: Stable: https://sugarchain.org/explorer Experimental https://sugar.wtf
     * volbil: Dev, Server
     * Raku Ten: Support
+  - verge: https://2explorer.sugarchain.org
+    * Nugetzrul3: Dev https://github.com/sugarchain-project/Sugarchain-Explorer
 
 
 ### Pool Operators
