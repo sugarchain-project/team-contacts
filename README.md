@@ -39,13 +39,13 @@ Casper | Github | Twitter | Keybase |
 Gene Chandler | Github | Twitter | Keybase | 
 素人  | Github | Twitter | Keybase | 
 yentencoin | Github | https://twitter.com/yentencoin | Keybase | 
+okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | Keybase | 
 
 
 ### Alumni
 Name | Github | Twitter | Keybase | 
 --|--|--|--| 
 AestheticSenpai | https://github.com/AestheticSenpai | https://twitter.com/AestheticSenpa1 | Keybase | 
-okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | Keybase | 
 soodal28 | Github | Twitter | Keybase | 
 Loopyks | Github | Twitter | Keybase | 
 hashpex | Github | Twitter | Keybase | 
