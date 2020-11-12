@@ -127,6 +127,8 @@ aglkm | https://github.com/aglkm | Twitter | Keybase |
     * volbil: Dev
   - Faucet: https://cpu-mining.info/sugarchain-faucet/
     * yentencoin: Dev, Server
+  - Archlinux ARU: https://aur.archlinux.org/packages/sugarchain-bin/
+    * Sandelinos: Manager
 
 
 ### Explorer Dev
