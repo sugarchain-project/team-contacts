@@ -61,6 +61,10 @@ aglkm | https://github.com/aglkm | Twitter | Keybase |
     * ilmango-doge: Bech32
     * Nugetzrul3: Review
     * decryp2kanon: Sync, IBD (Initial Blockchain Download)
+   - DNS Seeder: https://github.com/sugarchain-project/sugarchain-seeder
+    * cryptozeny: Dev, Server
+    * ROZ-MOFUMOFU-ME: Server
+    * Hel: Server
 
 
 ### 3rd Party Wallet Dev
