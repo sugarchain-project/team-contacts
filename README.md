@@ -40,6 +40,7 @@ Gene Chandler | Github | Twitter | Keybase |
 素人  | Github | Twitter | Keybase | 
 yentencoin | Github | https://twitter.com/yentencoin | Keybase | 
 okoto-xyz | https://github.com/okoto-xyz | https://twitter.com/okoto_xyz | Keybase | 
+Hel | https://github.com/lrhel | https://twitter.com/leroihel | https://keybase.io/leroihel |
 
 
 ### Alumni
