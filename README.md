@@ -100,7 +100,7 @@ aglkm | https://github.com/aglkm | Twitter | Keybase |
     * ilmango-doge: Bech32
   - cpuminer-RKZ: https://github.com/RickillerZ/cpuminer-RKZ
     * RicK~Z: Dev
-  - GUI-miner: https://github.com/Nugetzrul3/sugarchain-GUI-miner
+  - GUI-miner: https://github.com/Nugetzrul3/CPU-GUI-Miner
     * Nugetzrul3: Dev
   - USB Live Miner: https://gitlab.com/Sandelinos/sugarchain-live-miner
     * YouTube Tutorial: https://youtu.be/2XavHsBIsP4
@@ -136,6 +136,8 @@ aglkm | https://github.com/aglkm | Twitter | Keybase |
     * Sandelinos: Manager
   - Sugarmaker Archlinux AUR: https://aur.archlinux.org/packages/sugarmaker/
     * Sandelinos: Manager
+  - Sugarchain Telegram Bot: https://github.com/Nugetzrul3/SugarchainTGBot
+    * Nugetzrul3: Dev
 
 
 ### Explorer Dev
